@@ -23,3 +23,7 @@ This project was implemented as a Jupyter Notebook and requires the following Py
 ## Data
 
 The primary dataset used is responses_hw.csv.
+
+## To run it
+
+Clone this repository and run the project.ipynb file
