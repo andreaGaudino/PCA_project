@@ -26,4 +26,4 @@ The primary dataset used is responses_hw.csv.
 
 ## To run it
 
-Clone this repository and run the project.ipynb file
+Clone this repository and run the PCA_project.ipynb file
